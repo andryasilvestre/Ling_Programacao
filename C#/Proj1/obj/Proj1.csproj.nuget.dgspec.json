@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj": {}
+    "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj": {}
   },
   "projects": {
-    "D:\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj": {
+    "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj",
+        "projectUniqueName": "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj",
         "projectName": "Proj1",
-        "projectPath": "D:\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj",
-        "packagesPath": "C:\\Users\\andry\\.nuget\\packages\\",
-        "outputPath": "D:\\Ling_Programacao\\C#\\Proj1\\obj\\",
+        "projectPath": "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Proj1\\Proj1.csproj",
+        "packagesPath": "C:\\Users\\andrya.g.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Proj1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andrya.g.luna\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
