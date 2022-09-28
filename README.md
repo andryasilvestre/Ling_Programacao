@@ -4,7 +4,7 @@
 
  Linguagens disponíveis:
  
-* Python - Interesse pessoal. Busco me aprofundar em análise de dados.
+* Python 
 
 * C# - Linguagem utilizada no back-end Projeto Integrador SENAI 2022. 
        
