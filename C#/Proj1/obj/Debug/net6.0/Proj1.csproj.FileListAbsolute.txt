@@ -1,0 +1,15 @@
+D:\Ling_Programacao\C#\Proj1\bin\Debug\net6.0\Proj1.exe
+D:\Ling_Programacao\C#\Proj1\bin\Debug\net6.0\Proj1.deps.json
+D:\Ling_Programacao\C#\Proj1\bin\Debug\net6.0\Proj1.runtimeconfig.json
+D:\Ling_Programacao\C#\Proj1\bin\Debug\net6.0\Proj1.dll
+D:\Ling_Programacao\C#\Proj1\bin\Debug\net6.0\Proj1.pdb
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.csproj.AssemblyReference.cache
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.AssemblyInfoInputs.cache
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.AssemblyInfo.cs
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.csproj.CoreCompileInputs.cache
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.dll
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\refint\Proj1.dll
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.pdb
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\Proj1.genruntimeconfig.cache
+D:\Ling_Programacao\C#\Proj1\obj\Debug\net6.0\ref\Proj1.dll

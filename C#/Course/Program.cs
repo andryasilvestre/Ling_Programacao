@@ -19,6 +19,23 @@ namespace Course {
             decimal nz = decimal.MaxValue;
             double saldo = 10.434332;
             
+            //casting
+            double a1;
+            float b1;
+            a1 = 5.1;
+            b1 = (float)a1; //int(a)
+
+            int a22 = 5;
+            int b33 = 2;
+            double resultado1 = (double) a22 / b33; // descarta as casas decimais sem o (double) ->> fazer casting
+
+            // bhaskara
+
+            double a = 1.0, b = -3.0, c = -4.0;
+            double delta = Math.Pow(b, 2.0) -4.0 * a * c; //mathpow utilizada p calcular potenciação
+            double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
+
+
             Console.WriteLine(completo);
             System.Console.WriteLine(letra);
             System.Console.WriteLine(genero);
@@ -47,11 +64,14 @@ namespace Course {
             //placeholder
             System.Console.WriteLine("{0} é do sexo {1}.", nome, genero);
 
-            //interpolação - mais recente
+            //interpolação - mais recente e melhor, na minha opinião
             System.Console.WriteLine($"{nome} é do sexo {genero}. A ração dela custa R$ {saldo:F2}.");
 
             //Concatenação - mais antigo
             System.Console.WriteLine(nome + " é do sexo " + genero + ". A ração dela custa R$ " + (saldo.ToString("F2", CultureInfo.InvariantCulture)));
+
+            System.Console.WriteLine(b1);
+            System.Console.WriteLine(resultado1);
         } 
     }
 
