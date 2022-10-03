@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Course\\Course.csproj": {}
+    "D:\\Ling_Programacao\\C#\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Course\\Course.csproj": {
+    "D:\\Ling_Programacao\\C#\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Course\\Course.csproj",
+        "projectUniqueName": "D:\\Ling_Programacao\\C#\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Course\\Course.csproj",
-        "packagesPath": "C:\\Users\\andrya.g.luna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andrya.g.luna\\Desktop\\Programação\\Ling_Programacao\\C#\\Course\\obj\\",
+        "projectPath": "D:\\Ling_Programacao\\C#\\Course\\Course.csproj",
+        "packagesPath": "C:\\Users\\andry\\.nuget\\packages\\",
+        "outputPath": "D:\\Ling_Programacao\\C#\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andrya.g.luna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andry\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
